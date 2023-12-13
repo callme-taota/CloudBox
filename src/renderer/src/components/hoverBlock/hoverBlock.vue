@@ -41,8 +41,6 @@ const props = defineProps(['type', 'active'])
   padding-top: 4px;
   line-height: 40px;
   border-radius: 8px;
-  margin-left: 6px;
-  margin-right: 6px;
 }
 
 .hoverBlock-buttonType:hover {
